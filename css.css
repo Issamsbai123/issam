@@ -1,0 +1,38 @@
+
+body  {
+    background-color: rgb(173, 221, 230);
+}
+h1 {
+    color: white;
+  text-align: center;
+}
+p {
+    font-family: verdana;
+  font-size: 20px;
+}
+img.image
+{
+width: 1200px;
+
+height:800px;
+
+
+} 
+div.k{
+
+    background-color: cadetblue;
+}
+div.Q
+{
+    background-color: coral;
+
+}
+ul{
+    margin: auto;
+    width: 70%;
+}
+
+li {
+    font-size: 1.8em;
+    line-height: 2;
+}
